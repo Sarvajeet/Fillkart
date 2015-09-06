@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.38.1 clang-700.0.53)"
+options: "89c70d5d00cd37fb8f22106e6226247e"
+inputs: 
+- "/Users/sgada/Sarva/Projects/Fillcart/Fillcart/ViewController.swift"
+- "/Users/sgada/Sarva/Projects/Fillcart/Fillcart/AppDelegate.swift"
